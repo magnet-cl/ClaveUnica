@@ -19,7 +19,6 @@ class Provider extends AbstractProvider
         'openid',
         'run',
         'name',
-        'email',
     ];
 
     protected $scopeSeparator = ' ';
